@@ -312,4 +312,6 @@ body {
   .baloons img:nth-child(3n + 0) {
     left: 10%;
   }
+   .five .idea-5 {
+    font-size: 3.4rem;
 }
